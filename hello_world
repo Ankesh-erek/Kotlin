@@ -1,0 +1,6 @@
+
+fun main() {
+    println("Hell0")
+        print("world")
+
+}
