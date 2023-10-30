@@ -2,5 +2,15 @@
 fun main() {
     println("Hell0")
         print("world")
+        val x = "kotlin"
+    
+    println("Hell0 $x")
+    print("world ${x.toUpperCase()}")
+
 
 }
+
+
+OUTPUT :- Hell0
+worldHell0 kotlin
+world KOTLIN
